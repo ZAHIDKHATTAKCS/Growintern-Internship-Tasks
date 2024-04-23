@@ -7,7 +7,7 @@ body {
 nav {
     padding: 0%;
     /* margin-top: 30px; */
-  border: 1px solid red;
+  border: 1px solid black;
   background-color: #565264;
 }
 nav ul li {
@@ -26,7 +26,7 @@ nav ul li a:hover {
 }
 main{
     margin: 0px;
-    border: 1px solid red;
+    border: 1px solid black;
     background-color: #A6808C;
 }
 h2{
